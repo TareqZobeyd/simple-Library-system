@@ -1,0 +1,26 @@
+{
+    "Book A": {
+        "author": "Ali",
+        "publicationYear": "1986",
+        "totalCopies": "2",
+        "availableCopies": "2"
+    },
+    "Book B": {
+        "author": "Mojtaba",
+        "publicationYear": "1887",
+        "totalCopies": "1",
+        "availableCopies": "1"
+    },
+    "Book C": {
+        "author": "Hasan",
+        "publicationYear": "1990",
+        "totalCopies": "3",
+        "availableCopies": "3"
+    },
+    "Book D": {
+        "author": "Naser",
+        "publicationYear": "2003",
+        "totalCopies": "1",
+        "availableCopies": "1"
+    }
+}
