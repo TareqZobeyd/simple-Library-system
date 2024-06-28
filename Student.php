@@ -7,7 +7,7 @@ class Student {
     public function requestBook($nationalCode, $title) {
         $students = json_decode(file_get_contents($this->studentsFile), true);
         $books = json_decode(file_get_contents($this->booksFile), true);
-//        login
+//        login reviewed
 
         if (isset($students[$nationalCode])) {
             if (isset($books[$title]) && $books[$title]['availableCopies'] > 0) {
